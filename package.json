@@ -1,0 +1,25 @@
+{
+  "name": "sqbpay",
+  "version": "1.0.0",
+  "description": "收钱吧支付",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuwei5616/sqbpay.git"
+  },
+  "keywords": [
+    "sqbpay"
+  ],
+  "author": "xuwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuwei5616/sqbpay/issues"
+  },
+  "homepage": "https://github.com/xuwei5616/sqbpay#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
